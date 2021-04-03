@@ -8,11 +8,14 @@ This a simple python package which you 📲 download from the official python pa
 
 - Step 2: import ganeshportfolio as gp
 
-- Step 3: gp.author_name() - Prints my name 🙋🏽‍♂️
+- Step 3: 
+             '''
+             gp.author_name() - Prints my name 🙋🏽‍♂️
              gp.author_education() - Prints my education details 👨‍🎓
              gp.author_socialmedia() - Displays my social profile 👨‍💻
              gp.author_github() - Displays my github profile 😸
-
+             
+             '''
 ## How you can build your package?
 
 Soon I will upload a blog in Medium 🤙
