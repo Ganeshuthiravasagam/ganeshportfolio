@@ -1,0 +1,7 @@
+README.md
+setup.py
+ganeshportfolio/__init__.py
+ganeshportfolio.egg-info/PKG-INFO
+ganeshportfolio.egg-info/SOURCES.txt
+ganeshportfolio.egg-info/dependency_links.txt
+ganeshportfolio.egg-info/top_level.txt
