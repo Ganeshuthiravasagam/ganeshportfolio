@@ -2,7 +2,7 @@
 
 # Python Portfolio Package - ganeshportfolio 🤩
 
-This a simple python package which you 📲 download from the official python package website 👉 https://pypi.org/. This package comprises my name, my education details and much more. 🗣
+This a simple python package which you 📲 download from the official python package website 👉 https://pypi.org/project/ganeshportfolio/. This package comprises my name, my education details and much more. 🗣
 
 ## How to import and use? ✨
 
