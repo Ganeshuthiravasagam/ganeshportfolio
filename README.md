@@ -1,6 +1,6 @@
-![image](https://github.com/Ganeshuthiravasagam/ganeshportfolio/blob/main/Portfolio%20Package.jpeg)
-
 # Python Portfolio Package - ganeshportfolio 🤩
+
+![image](https://github.com/Ganeshuthiravasagam/ganeshportfolio/blob/main/Portfolio%20Package.jpeg)
 
 This a simple python package which you 📲 download from the official python package website 👉 https://pypi.org/project/ganeshportfolio/. This package comprises my name, my education details and much more. 🗣
 
