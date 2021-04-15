@@ -20,7 +20,7 @@ This a simple python package which you 📲 download from the official python pa
              
 ## How you can build your package?
 
-Soon I will upload a blog in Medium 🤙
+Check the detailed blog on "How to create your python package?" via LinkedIn article - [click here](https://www.linkedin.com/feed/update/urn:li:activity:6787304918735835136/) 🤙
 
 
 
